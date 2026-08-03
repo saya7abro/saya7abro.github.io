@@ -1,0 +1,11 @@
+Package: com.saya7abro.ytbypass
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Description: Fix YouTube 1-minute playback loop and bypass integrity checks for old iOS devices.
+Name: YTBypassOneMin
+Author: saya7abro
+Maintainer: saya7abro
+Depiction: https://github.io
+Filename: com.saya7abro.ytbypass_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3436
+MD5sum: 0be0afca3d7cb2d1633c01db4f0a7b83
