@@ -1,11 +1,19 @@
-Package: com.saya7abro.ytbypass
-Version: 0.0.1-1+debug
+Package: com.saya7abro.ytpremium
+Version: 1.0.0-1+debug
 Architecture: iphoneos-arm
-Description: Fix YouTube 1-minute playback loop and bypass integrity checks for old iOS devices.
-Name: YTBypassOneMin
-Author: saya7abro
 Maintainer: saya7abro
-Depiction: https://github.io
-Filename: com.saya7abro.ytbypass_0.0.1-1+debug_iphoneos-arm.deb
-Size: 3436
-MD5sum: 0be0afca3d7cb2d1633c01db4f0a7b83
+Installed-Size: 76
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./packages/com.saya7abro.ytpremium_1.0.0-1+debug_iphoneos-arm.deb
+Size: 5282
+MD5sum: be91ff2493112b5317cabd50fe5340da
+SHA1: deb4f77d924d0ad4499b33cf61d69cb709a95aff
+SHA256: 98c36f41bb453aed1c18eb627a75ee5f7112aa2474a84d84ea7eae9d2aee28d7
+Section: Tweaks
+Description: Complete YouTube Premium features for iOS 12. Includes 20.23.4 spoofing, heartbeat bypass, adblock, and background playback.
+Tag: cydia::tweak, role::enduser
+Author: saya7abro
+Icon: https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f3ac.png
+Name: YTPremium
+Sileodepiction: https://raw.githubusercontent.com/saya7abro/YTPremium/main/depiction.json
+
