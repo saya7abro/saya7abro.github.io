@@ -1,8 +1,0 @@
-Origin: saya7abro Repo
-Label: saya7abro
-Suite: stable
-Version: 1.0
-Codename: saya7abro
-Architectures: iphoneos-arm
-Components: main
-Description: Fix YouTube 1-minute playback loop and bypass integrity checks for old iOS devices.
